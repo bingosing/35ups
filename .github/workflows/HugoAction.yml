@@ -39,5 +39,5 @@ jobs:
           #发布到哪个branch
           publish_branch: gh-pages
           force_orphan: true
-          cname: gh-pages.bioit.top
+          cname: gh-pages.35ups.com
           full_commit_message: ${{ github.event.head_commit.message }}
